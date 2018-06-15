@@ -1,6 +1,6 @@
 -------------------------------------------SETUP------------------------------------------------
 
-Unpack RPITempsProbe.zip into a folder.
+Unpack RPITC.zip into a folder.
 Both the Server.exe and the Client are standalone executables, and you can put them wherever you like it.
 If you encounter any error when opening the server, extract libstdc++ -6.dll and put it in the same folder as Server.exe.
 
