@@ -67,3 +67,8 @@ First alpha release.
 Only data recover from HWiNFO64 using custom functions.
 
 ------------------------------------------------------------------------------------------------"# RPITC" 
+
+Developers:
+
+Nicklaj
+Pylo90
