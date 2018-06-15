@@ -71,4 +71,5 @@ Only data recover from HWiNFO64 using custom functions.
 Developers:
 
 Nicklaj
+
 Pylo90
